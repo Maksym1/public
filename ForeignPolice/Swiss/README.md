@@ -29,7 +29,7 @@ This is a sample screen shot of the report. It shows that there are 2 guests in 
 The report states also:
 
 - The profile of `Jane Smith` is 100 %complete - *that is why the field is white*.
-- On profiles of `Jason Statham` a `Mena Suvari` *adress* and *passport number* are **missing** - *that is why those fields are red*.
+- On profiles of `Jason Statham` a `Mena Suvari` *address* and *passport number* are **missing** - *that is why those fields are red*.
 - A companion of `Mena Suvari` is unassigned - *that is why the whole blank line is red*.
 
 All missing (red) data should be filled in during the check-in process. If something is still missing after check-in, it should be filled before the report is generated - see [How it all works](#how-all-works). The aim is to have the report 100% complete - fully white.
